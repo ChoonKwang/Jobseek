@@ -1,0 +1,295 @@
+============[Date]============
+[ 2018-10-11 09:49:12  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:49:39  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:50:20  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:50:37  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		404
+description:		Not Found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:50:46  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:54:26  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:54:29  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:54:41  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:55:48  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 09:56:35  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 10:00:39  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 10:01:09  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(19): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 10:18:10  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: inline keyboard expected
+=========[Sent Data]==========
+[ref]
+ref.update_id= 647297105
+ref.channel_post.message_id= 3
+ref.channel_post.chat.id= -1001244547047
+ref.channel_post.chat.title= ck_askzoey_demo
+ref.channel_post.chat.type= channel
+ref.channel_post.date= 1539245886
+ref.channel_post.text= /test
+ref.channel_post.entities.0.offset= 0
+ref.channel_post.entities.0.length= 5
+ref.channel_post.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"keyboard":[["A","B"],["C","D"]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= Chat Group
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(43): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->index()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+
+============[Date]============
+[ 2018-10-11 10:35:28  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(3057): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(93): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\htdocs\Jobseek\application\vendor\eleirbag89\telegrambotphp\Telegram.php(178): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\htdocs\Jobseek\application\controllers\Telechat.php(60): Telegram->sendMessage(Array)
+#4 D:\xampp\htdocs\Jobseek\system\core\CodeIgniter.php(532): Telechat->autosend()
+#5 D:\xampp\htdocs\Jobseek\index.php(315): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+

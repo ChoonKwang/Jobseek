@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stripe/stripe-php": "^6.19",
+        "eleirbag89/telegrambotphp": "^1.3"
+    }
+}

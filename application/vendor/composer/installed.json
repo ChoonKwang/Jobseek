@@ -1,17 +1,123 @@
 [
     {
-        "name": "stripe/stripe-php",
-        "version": "v6.17.2",
-        "version_normalized": "6.17.2.0",
+        "name": "eleirbag89/telegrambotphp",
+        "version": "1.3.8",
+        "version_normalized": "1.3.8.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/stripe/stripe-php.git",
-            "reference": "df73bb330c35ee14ed443723a6fe122dbc954497"
+            "url": "https://github.com/Eleirbag89/TelegramBotPHP.git",
+            "reference": "aec5bc4f5873595d1b4f03fd0d955549ba4cfab3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/stripe/stripe-php/zipball/df73bb330c35ee14ed443723a6fe122dbc954497",
-            "reference": "df73bb330c35ee14ed443723a6fe122dbc954497",
+            "url": "https://api.github.com/repos/Eleirbag89/TelegramBotPHP/zipball/aec5bc4f5873595d1b4f03fd0d955549ba4cfab3",
+            "reference": "aec5bc4f5873595d1b4f03fd0d955549ba4cfab3",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.0"
+        },
+        "time": "2017-12-27T13:46:04+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "Telegram.php",
+                "TelegramErrorLogger.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Gabriele Grillo",
+                "email": "gabry.grillo@alice.it"
+            }
+        ],
+        "description": "A very simple PHP Telegram Bot API"
+    },
+    {
+        "name": "php-curl-class/php-curl-class",
+        "version": "8.3.2",
+        "version_normalized": "8.3.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-curl-class/php-curl-class.git",
+            "reference": "3193b41dcd19025ad579ea26eb48774421d84708"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-curl-class/php-curl-class/zipball/3193b41dcd19025ad579ea26eb48774421d84708",
+            "reference": "3193b41dcd19025ad579ea26eb48774421d84708",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-mbstring": "*",
+            "php": ">=5.3"
+        },
+        "require-dev": {
+            "ext-gd": "*",
+            "phpunit/phpunit": "*",
+            "squizlabs/php_codesniffer": "*"
+        },
+        "time": "2018-09-09T07:05:39+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Curl\\": "src/Curl/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Unlicense"
+        ],
+        "authors": [
+            {
+                "name": "Zach Borboa"
+            }
+        ],
+        "description": "PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs.",
+        "homepage": "https://github.com/php-curl-class/php-curl-class",
+        "keywords": [
+            "API-Client",
+            "api",
+            "class",
+            "client",
+            "curl",
+            "framework",
+            "http",
+            "http-client",
+            "http-proxy",
+            "json",
+            "php",
+            "php-curl",
+            "php-curl-library",
+            "proxy",
+            "requests",
+            "restful",
+            "web-scraper",
+            "web-scraping ",
+            "web-service",
+            "xml"
+        ]
+    },
+    {
+        "name": "stripe/stripe-php",
+        "version": "v6.19.3",
+        "version_normalized": "6.19.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/stripe/stripe-php.git",
+            "reference": "ef6b3efdc61b377d5e4fd1433eaef8d040d3dd3f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/stripe/stripe-php/zipball/ef6b3efdc61b377d5e4fd1433eaef8d040d3dd3f",
+            "reference": "ef6b3efdc61b377d5e4fd1433eaef8d040d3dd3f",
             "shasum": ""
         },
         "require": {
@@ -25,7 +131,7 @@
             "phpunit/phpunit": "~4.0",
             "squizlabs/php_codesniffer": "~2.0"
         },
-        "time": "2018-09-18T13:48:26+00:00",
+        "time": "2018-10-09T07:28:04+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {

@@ -4,12 +4,21 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit464452bb24463596637470ff6999ce65
+class ComposerStaticInit4a127f33816ac4a52cdfdb0f99341f07
 {
+    public static $files = array (
+        '547f39254e5312c66b30c9b6a7d3570f' => __DIR__ . '/..' . '/eleirbag89/telegrambotphp/Telegram.php',
+        '221a7c0887f892e44dd08191321d3815' => __DIR__ . '/..' . '/eleirbag89/telegrambotphp/TelegramErrorLogger.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
             'Stripe\\' => 7,
+        ),
+        'C' => 
+        array (
+            'Curl\\' => 5,
         ),
     );
 
@@ -18,13 +27,17 @@ class ComposerStaticInit464452bb24463596637470ff6999ce65
         array (
             0 => __DIR__ . '/..' . '/stripe/stripe-php/lib',
         ),
+        'Curl\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/php-curl-class/php-curl-class/src/Curl',
+        ),
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit464452bb24463596637470ff6999ce65::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit464452bb24463596637470ff6999ce65::$prefixDirsPsr4;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit4a127f33816ac4a52cdfdb0f99341f07::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit4a127f33816ac4a52cdfdb0f99341f07::$prefixDirsPsr4;
 
         }, null, ClassLoader::class);
     }
